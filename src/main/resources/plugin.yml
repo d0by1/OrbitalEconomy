@@ -1,0 +1,24 @@
+main: me.d0by.orbitaleconomy.OrbitalEconomy
+name: OrbitalEconomy
+version: ${version}
+author: d0by
+api-version: 1.13
+prefix: OrbitalEconomy
+softdepend:
+  - PlaceholderAPI
+  - Vault
+
+commands:
+  balance:
+    usage: /balance [player]
+    description: Check your balance.
+    aliases: [balance, bal]
+  give:
+    usage: /give <player> <amount>
+    description: Give money to a player.
+  setbalance:
+    usage: /setbalance <player> <amount>
+    description: Set a player's balance.
+  earn:
+    usage: /earn
+    description: Earn money.
