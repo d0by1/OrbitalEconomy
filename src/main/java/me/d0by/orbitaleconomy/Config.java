@@ -58,7 +58,7 @@ public final class Config {
             " &e/balance &7- Check your balance.",
             " &e/balance <player> &7- Check another player's balance.",
             " &e/give <player> <amount> &7- Give another player money.",
-            " &e/set <player> <amount> &7- Set another player's balance.",
+            " &e/setbalance <player> <amount> &7- Set another player's balance.",
             " &e/earn &7- Earn money.",
             ""
     );

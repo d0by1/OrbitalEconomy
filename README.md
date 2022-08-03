@@ -14,3 +14,8 @@ Vault support is included, meaning other plugins can use Vault to access this pl
 - `{prefix}`: Prefix of the plugin (configurable in config.yml).
 - `{player}`: Players name.
 - `{money}`: Amount of money a player has.
+
+## Screenshots
+
+1) Help message <br>![img](./screenshots/help.png)
+2) Balance <br>![img](./screenshots/balance.png)
